@@ -1,0 +1,5 @@
+videos/
+memory/
+*.mp4
+*.MOV
+.DS_Store
